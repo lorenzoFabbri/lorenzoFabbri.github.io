@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Lorenzo Fabbri and I currently live in San Marino, my home country. I graduated with a Bachelor's degree in Biotechnology and a Master's degree in Computational Biology. My Master's internship was about the use of Machine and Deep Learning for Drug Unbinding Kinetics, whereas my Master's thesis was about the use of Machine and Deep Learning for Drug-Induced Liver Injury (DILI). More about me can be found on my [CV](https://www.dropbox.com/s/5r6keu9a7myy5as/lorenzo_fabbri_cv.pdf?dl=0).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am now looking for a PhD position. My research interests shifted considerably after graduating. I am now interested in how the environment (e.g., air pollution) and lifestyle (e.g., nutrition) impact our health (i.e., the study of the Exposome). More precisely, I would like to focus on the impact of environmental factors on the development of cancer. I am also interested in Public Health issues and Preventive Medicine.
