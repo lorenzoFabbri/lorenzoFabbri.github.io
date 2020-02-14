@@ -20,9 +20,8 @@ description: Lorenzo's personal web page
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
   About: "aboutme"
-  Blog: "blog"
+  Blog: ""
   Research: "research"
   Teaching: "teaching"
   Projects: "projects"
